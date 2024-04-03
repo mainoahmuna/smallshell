@@ -37,3 +37,6 @@ change directory
 prints the exit status of the last executed command
 ### exit
 exit the shell
+
+## Author
+Mainoah Muna
