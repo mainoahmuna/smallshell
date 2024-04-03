@@ -25,7 +25,9 @@ Toggles between foreground-only mode and normal mode with SIGTSTP (Ctrl+Z).
 The shell accepts commands entered by the user. Each command can contain multiple arguments separated by spaces. The following special symbols are supported:
 
 '<' : Input redirection. Redirects input from a file.
+
 '>' : Output redirection. Redirects output to a file.
+
 '&' : Background execution. Executes a command in the background.
 
 ## Built in Commands
