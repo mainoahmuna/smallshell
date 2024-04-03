@@ -1,0 +1,6 @@
+# In .gitignore
+README.txt/
+munam_program3.zip/	
+p3testscript/
+mytestresults/
+smallsh/
