@@ -39,4 +39,4 @@ prints the exit status of the last executed command
 exit the shell
 
 ## Author
-Mainoah Muna
+Mainoah Zander Muna
